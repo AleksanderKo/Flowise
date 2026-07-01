@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="cloudruGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2ea6ff"/>
+      <stop offset="1" stop-color="#1f6fe5"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#cloudruGrad)" d="M48.5 44H18a12 12 0 0 1-2-23.83A15 15 0 0 1 45 22.2a11 11 0 0 1 3.5 21.8z"/>
+  <g fill="#ffffff">
+    <rect x="22" y="30" width="4" height="10" rx="1"/>
+    <rect x="30" y="26" width="4" height="14" rx="1"/>
+    <rect x="38" y="22" width="4" height="18" rx="1"/>
+  </g>
+</svg>
